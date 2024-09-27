@@ -1,0 +1,11 @@
+RNN:
+https://github.com/CaptainE/RNN-LSTM-in-numpy/blob/master/RNN_LSTM_from_scratch.ipynb
+
+LSTM:
+https://github.com/CaptainE/RNN-LSTM-in-numpy/blob/master/RNN_LSTM_from_scratch.ipynb
+https://github.com/nicodjimenez/lstm/tree/master
+log loss figure etc
+https://mattgorb.github.io/lstm_numpy
+
+CNN:
+https://github.com/Alescontrela/Numpy-CNN/tree/master/CNN
